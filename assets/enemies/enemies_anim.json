@@ -1,0 +1,120 @@
+{
+    "anims": [
+        {
+            "key": "slimepink_die",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "slimepurple_hit"
+                }
+            ]
+        },
+        {
+            "key": "slimeblue_die",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "slimeblue_hit"
+                }
+            ]
+        },
+        {
+            "key": "slimegreen_die",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 1,
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "slimegreen_hit"
+                }
+            ]
+        },
+        {
+            "key": "wormpink_move",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 7,
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "wormpink"
+                },
+                {
+                    "key": "enemies",
+                    "frame": "wormpink_move"
+                }
+            ]
+        },
+        {
+            "key": "wormgreen_move",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 5,
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "wormgreen"
+                },
+                {
+                    "key": "enemies",
+                    "frame": "wormgreen_move"
+                }
+            ]
+        },
+        {
+            "key": "slimepink_move",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "slimepurple"
+                },
+                {
+                    "key": "enemies",
+                    "frame": "slimepurple_move"
+                }
+            ]
+        },
+        {
+            "key": "slimegreen_move",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 2,
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "slimegreen"
+                },
+                {
+                    "key": "enemies",
+                    "frame": "slimegreen_move"
+                }
+            ]
+        },
+        {
+            "key": "slimeblue_move",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 5,
+            "frames": [
+                {
+                    "key": "enemies",
+                    "frame": "slimeblue"
+                },
+                {
+                    "key": "enemies",
+                    "frame": "slimeblue_move"
+                }
+            ]
+        }
+    ]
+}

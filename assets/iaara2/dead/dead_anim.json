@@ -1,0 +1,132 @@
+{
+    "anims": [
+        {
+            "key": "dead",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 30,
+            "frames": [
+                {
+                    "key": "dead",
+                    "frame": "dead_(1)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(2)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(3)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(4)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(5)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(6)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(7)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(8)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(9)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(10)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(11)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(12)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(13)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(14)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(15)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(16)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(17)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(18)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(19)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(20)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(21)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(22)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(23)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(24)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(25)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(26)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(27)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(28)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(29)"
+                },
+                {
+                    "key": "dead",
+                    "frame": "dead_(30)"
+                }
+            ]
+        }
+    ]
+}

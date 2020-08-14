@@ -1,0 +1,92 @@
+{
+    "anims": [
+        {
+            "key": "run",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 20,
+            "frames": [
+                {
+                    "key": "run",
+                    "frame": "run_(1)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(2)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(3)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(4)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(5)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(6)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(7)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(8)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(9)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(10)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(11)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(12)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(13)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(14)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(15)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(16)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(17)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(18)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(19)"
+                },
+                {
+                    "key": "run",
+                    "frame": "run_(20)"
+                }
+            ]
+        }
+    ]
+}

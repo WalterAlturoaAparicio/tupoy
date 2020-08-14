@@ -1,0 +1,92 @@
+{
+    "anims": [
+        {
+            "key": "walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 20,
+            "frames": [
+                {
+                    "key": "walk",
+                    "frame": "walk_(1)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(2)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(3)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(4)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(5)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(6)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(7)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(8)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(9)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(10)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(11)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(12)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(13)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(14)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(15)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(16)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(17)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(18)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(19)"
+                },
+                {
+                    "key": "walk",
+                    "frame": "walk_(20)"
+                }
+            ]
+        }
+    ]
+}
