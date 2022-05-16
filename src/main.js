@@ -1,3 +1,4 @@
+import Boss1 from './scenes/Boss1.js';
 import Interfaz from './scenes/Interfaz.js';
 import Nivel1 from './scenes/Nivel1.js';
 import Menu from './scenes/Menu.js';
@@ -22,13 +23,13 @@ const config = {
     physics: {
         default: "arcade",
         arcade: {
-            debug: false,
+            debug: true,
             gravity: {
                 y: 800
             }
         }
     },
-    scene: [Bootloader, Pruebas, Intro, Menu, Nivel1, Interfaz]
+    scene: [Bootloader, Pruebas, Intro, Menu, Nivel1, Interfaz, Boss1]
 };
 
 new Phaser.Game(config);

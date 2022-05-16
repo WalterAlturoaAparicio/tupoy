@@ -66,8 +66,5 @@ Enemy.prototype.controllerHit = function(player, enemy) {
                         player.clearTint();
                     }, 700);
                 }
-                //setTimeout(player.neverSayNever(player), 3000);
-            /*  player.isAlive = false;
-                player.anims.play("dead"); */       
         }
 }
