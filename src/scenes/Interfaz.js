@@ -104,10 +104,8 @@ class Interfaz extends Phaser.Scene {
         ).setDepth(6);
 
     }
-
     update(time, delta) {
         if(this.scene.isPaused("Nivel1") && !this.scena.bossEscene1Complete){
-            
             this.pauseTimeLine.play();
             this.dispauseTimeLine.pause();
             if(this.scena.continue.isDown){
