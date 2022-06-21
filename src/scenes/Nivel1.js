@@ -22,7 +22,6 @@ class Nivel1 extends Phaser.Scene {
         const map = this.add.tilemap("level1");
         const terrain = map.addTilesetImage("spritesheet_ground", "terrain");
         const itemSet = map.addTilesetImage("spritesheet_tiles", "items");
-
         this.terrainLayer = map.createLayer(
             "fondo",
             [terrain, itemSet],
