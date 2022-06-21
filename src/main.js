@@ -7,7 +7,7 @@ import Pruebas from './scenes/Pruebas.js';
 import Bootloader from './Bootloader.js';
 
 const config = {
-    title: "Corazon con imaginacion 1.1",
+    title: "Corazon con imaginacion 1.2",
     version: "0.0.1",
     type: Phaser.AUTO,
     scale: {

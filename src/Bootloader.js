@@ -23,6 +23,8 @@ class Bootloader extends Phaser.Scene {
         this.load.animation("enemiesData", "enemies/enemies_anim.json");
         this.load.atlas("enemies", "enemies/enemies.png", "enemies/enemies_atlas.json");
 
+        this.load.atlas("boss", "enemies/boss.png", "enemies/boss_atlas.json");
+
         this.load.setPath('./assets/iaara2/');
 
         this.load.image("lives", "lives.png")
