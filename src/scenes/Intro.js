@@ -53,7 +53,7 @@ class Intro extends Phaser.Scene {
             this.add.zone(0, 170, 1290, 480).setOrigin(0)
         );
         
-        const background_text = this.add.image(0, this.scale.height*1.3, 'background_text')
+        this.add.image(0, this.scale.height*1.3, 'background_text')
             .setOrigin(0, 1)
             .setScrollFactor(0.7)
             .setDepth(1)

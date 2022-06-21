@@ -1,0 +1,112 @@
+{
+    "frames": [
+        {
+            "filename": "boss_0",
+            "frame": {
+                "w": 619,
+                "h": 619,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss_1",
+            "frame": {
+                "w": 619,
+                "h": 619,
+                "x": 619,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss_2",
+            "frame": {
+                "w": 619,
+                "h": 619,
+                "x": 0,
+                "y": 619
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss_3",
+            "frame": {
+                "w": 619,
+                "h": 619,
+                "x": 619,
+                "y": 619
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss_4",
+            "frame": {
+                "w": 619,
+                "h": 619,
+                "x": 1238,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss_5",
+            "frame": {
+                "w": 619,
+                "h": 619,
+                "x": 1238,
+                "y": 619
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss_6",
+            "frame": {
+                "w": 619,
+                "h": 619,
+                "x": 0,
+                "y": 1238
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss_7",
+            "frame": {
+                "w": 619,
+                "h": 619,
+                "x": 619,
+                "y": 1238
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

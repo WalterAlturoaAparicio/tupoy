@@ -23,7 +23,8 @@ class Interfaz extends Phaser.Scene {
         this.restartPanel.fillRect(0,0,1280,720).setDepth(4);
         //when player lose animation
         const loseTextArray = [
-            'YOU LOSE'
+            '     YOU LOSE \n',
+            'PRESS R TO RESTART '
         ];
         const pauseTextArray = [
             'PRESS ENTER TO CONTINUE \n',
@@ -103,9 +104,8 @@ class Interfaz extends Phaser.Scene {
         ).setDepth(6);
 
     }
-
     update(time, delta) {
-        if(this.scene.isPaused("Nivel1")){
+        if(this.scene.isPaused("Nivel1") && !this.scena.bossEscene1Complete){
             this.pauseTimeLine.play();
             this.dispauseTimeLine.pause();
             if(this.scena.continue.isDown){

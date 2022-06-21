@@ -1,0 +1,23 @@
+{
+  "name": "tupoy.github.io",
+  "version": "1.0.0",
+  "description": "My first game",
+  "main": "phaser.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WalterAlturoaAparicio/tupoy.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WalterAlturoaAparicio/tupoy.github.io/issues"
+  },
+  "homepage": "https://github.com/WalterAlturoaAparicio/tupoy.github.io#readme",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}

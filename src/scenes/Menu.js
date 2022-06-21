@@ -15,7 +15,7 @@ class Menu extends Phaser.Scene {
             'PRESS ENTER'
         ];
         //fondo
-        const background = this.add.image(0, -100, 'sky')
+        this.add.image(0, -100, 'sky')
             .setScale(2.5)
             .setOrigin(0,.20)
             .setAlpha(1);
@@ -52,7 +52,7 @@ class Menu extends Phaser.Scene {
             selector,
             menuText
         ]);
-        const iaara = this.add.sprite(923, 368, 'idle')
+        this.add.sprite(923, 368, 'idle')
             .setScale(.5)
             .setDepth(2);
     }
