@@ -19,10 +19,10 @@ class Nivel1 extends Phaser.Scene {
         this.background.setOrigin(0, 0);
 
         //maps
-        const map = this.add.tilemap("level1");
-        const terrain = map.addTilesetImage("spritesheet_ground", "terrain");
-        const itemSet = map.addTilesetImage("spritesheet_tiles", "items");
-        this.terrainLayer = map.createLayer(
+        const schema = this.add.tilemap("level1");
+        const terrain = schema.addTilesetImage("spritesheet_ground", "terrain");
+        const itemSet = schema.addTilesetImage("spritesheet_tiles", "items");
+        this.terrainLayer = schema.createLayer(
             "fondo",
             [terrain, itemSet],
             0,
@@ -88,16 +88,16 @@ class Nivel1 extends Phaser.Scene {
         this.physics.world.setBounds(
             0,
             0,
-            map.widthInPixels,
-            map.heightInPixels
+            schema.widthInPixels,
+            schema.heightInPixels
         );
 
         // Main camera
         this.cameras.main.setBounds(
             0,
             0,
-            map.widthInPixels,
-            map.heightInPixels
+            schema.widthInPixels,
+            schema.heightInPixels
         );
         this.cameras.main.startFollow(this.iaara);
 
