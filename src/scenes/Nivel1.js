@@ -35,7 +35,7 @@ class Nivel1 extends Phaser.Scene {
         this.cursor = this.input.keyboard.createCursorKeys();
 
         //player
-        this.iaara = new Player(this, 8100, 300, "idle").setScale(0.2);
+        this.iaara = new Player(this, 60, 300, "idle").setScale(0.2);
 
         //enemies
         this.slimesGreen = this.add.group();
