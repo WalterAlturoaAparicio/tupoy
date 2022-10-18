@@ -47,9 +47,9 @@ Player.prototype.controller = function (cursor, player) {
                 player.body.setVelocityX(0);
                 player.anims.play("idle", true);
             } else if (cursor.left.isUp) {
-                // player.body.setVelocityX(0);
+                player.body.setVelocityX(0);
             } else if (cursor.right.isUp) {
-                // player.body.setVelocityX(0);
+                player.body.setVelocityX(0);
             }
             if (Phaser.Input.Keyboard.JustDown(cursor.up)) {
                 if (player.body.blocked.down || player.body.touching.down) {
